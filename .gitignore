@@ -14,9 +14,6 @@ env/
 # Ignore the log files
 *.log
 
-# Ignore database dumps
-*.sql
-
 # Ignore CSV files generated from extraction
 *.csv
 
