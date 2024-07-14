@@ -1,0 +1,35 @@
+# Byte-compiled / optimized Python files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+env/
+*.venv/
+
+# IDEs and editors
+.idea/
+.vscode/
+
+# Ignore the log files
+*.log
+
+# Ignore database dumps
+*.sql
+
+# Ignore CSV files generated from extraction
+*.csv
+
+# Ignore package-lock.json for npm projects
+package-lock.json
+
+# Ignore configuration files that may contain sensitive information
+config.ini
+*.conf
+*.yaml
+
+# Ignore environment-specific settings
+.env
+
+# Ignore local development settings
+*.local
